@@ -45,9 +45,7 @@ app.*.map.json
 /android/app/release
 
 # Environment variables and secrets
-.env
-.env.local
-.env.production
-.env.staging
 secrets.json
 config.json
+config.bat
+node_modules
