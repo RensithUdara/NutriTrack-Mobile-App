@@ -47,5 +47,8 @@ app.*.map.json
 # Environment variables and secrets
 secrets.json
 config.json
-config.bat
 node_modules
+.env
+.env.local
+.env.production
+.env.staging
